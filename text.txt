@@ -1,0 +1,1 @@
+Buraya sifrelerini yaz(yazmak icin text.txt dosyasini duzenle)

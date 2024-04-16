@@ -1,0 +1,12 @@
+Personal
+--------------------------
+Device Name = uqw23923
+Username = KayraOS
+Password = Not set
+
+System
+--------------------------
+RAM = 512 KB
+Hard Disk = 950 KB (670 KB Free Space)
+Processor = KayraOS 2nd Gen.
+
