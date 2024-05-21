@@ -107,6 +107,8 @@ while tekrar == 1:
 | 5. Sistem işlemleri |
 
 | 6. Web Uygulamaları |
+           
+| 7. Oyunlar |
               """)
     secenek2 = input("Baslatici===")
     if secenek2 == "1" :
@@ -209,6 +211,8 @@ while tekrar == 1:
             port=input(">")
             os.system('python -m http.server ' + port)
             
-            
+    if secenek2 == "7" :
+        print ("DAHA GELİŞTİRİLMEDİ")
+        
 else :
     exit()
